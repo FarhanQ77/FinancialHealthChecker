@@ -1,6 +1,6 @@
 # 💰 Financial Health Checker
 
-An AI-driven personal finance tool built with **Streamlit**, **Prophet**, and **Plotly** — designed to help users forecast income and expenses, track savings, and visualize financial health trends.
+An AI-driven personal finance tool built with **Streamlit**, **Prophet**, and **Plotly** - designed to help users forecast income and expenses, track savings, and visualize financial health trends.
 
 ---
 
