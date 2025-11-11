@@ -1,0 +1,40 @@
+# created by virtualenv automatically
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python packaging/build
+build/
+dist/
+*.egg-info/
+
+# Jupyter/Streamlit
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+
+# Logs & local data
+*.log
+*.tmp
+*.sqlite3
+data/
+*.csv
+*.parquet
+
+# Credentials
+*.env
+.env*
+
