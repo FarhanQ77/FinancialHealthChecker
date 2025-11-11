@@ -7,9 +7,12 @@ __pycache__/
 *.so
 
 # Virtual environments
-.venv/
 venv/
 env/
+.venv/
+Lib/
+Scripts/
+etc/
 
 # OS / IDE
 .DS_Store
